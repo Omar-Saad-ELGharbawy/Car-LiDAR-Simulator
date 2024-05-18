@@ -26,5 +26,5 @@ This project utilizes Qt Creator (C++) to develop a visual representation of car
 
 ![Screenshot (669)](https://github.com/Omar-Saad-ELGharbawy/Car-LiDAR-Simulator/assets/84602951/c1c52da8-1ca3-40a8-b717-f23b69351a87)
 
-[Presentation]()
-[Car LiDaR.pptx](https://github.com/Omar-Saad-ELGharbawy/Car-LiDAR-Simulator/files/15357532/Car.LiDaR.pptx)
+[Presentation](https://github.com/Omar-Saad-ELGharbawy/Car-LiDAR-Simulator/blob/main/Car%20LiDaR.pptx)
+
