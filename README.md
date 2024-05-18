@@ -4,8 +4,6 @@ This project utilizes Qt Creator (C++) to develop a visual representation of car
 - [Project Features](#project-features)
 - [Project Structure](#project-structure)
 - [Quick Preview](#quick-preview)
-- [Requirements to run](#Requirements-to-run)
-- [How it Works](#How-it-Works)
 ***
 ## Project Features
 
